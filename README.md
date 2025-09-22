@@ -1,4 +1,4 @@
-# Retail Data Insights with Exce : Frontier Mart Case Study
+# Retail Data Insights with Exce;l : Frontier Mart Case Study
 
 ![premium_photo-1661381007965-b21e0fb0681b](https://github.com/user-attachments/assets/94ef08cb-70fd-48d0-92ae-5820163d47ad)
 
