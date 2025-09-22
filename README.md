@@ -13,7 +13,7 @@
 - [Recommendations](#recommendations)
 
 ### **DESCRIPTION**
-This project analyzes over $9 million in sales data from Frontier Mart, a leading retail brand, using Microsoft Excel. The goal was to uncover trends in monthly sales, identify best-selling products, assess customer purchasing behavior, and evaluate profit margins across categories and sales channels. The project features interactive dashboards created with pivot tables, charts, and Excel formulas to support data-driven decisions in retail strategy, inventory management, and customer engagement.
+This project analyzed over $9 million in sales data from Frontier Mart, a leading retail brand, using Microsoft Excel. The goal was to uncover trends in monthly sales, identify best-selling products, assess customer purchasing behavior, and evaluate profit margins across categories and sales channels. The project features interactive dashboards created with pivot tables, charts, and Excel formulas to support data-driven decisions in retail strategy, inventory management, and customer engagement.
 
 <img width="1227" height="672" alt="image" src="https://github.com/user-attachments/assets/80eac26f-cd1c-4c17-aae7-5c553d2c32b5" />
 
