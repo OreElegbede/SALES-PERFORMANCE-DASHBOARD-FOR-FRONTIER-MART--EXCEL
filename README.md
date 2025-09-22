@@ -29,8 +29,8 @@ The aim of this project is to analyze Frontier Mart’s sales data using Microso
 ### **PROCESSES**
 
 - Data Cleaning: Ensured all data sets are clean and ready for the analysis. Removed inconsistencies, duplicates, blanks and errors for accurate analysis, merged datasets using common keys for a consolidated view and created calculated columns such as costs, profits and sales per transaction using Vlook up, index match and IF statements 
-- Data Analysis: Built multiple pivot tables to nalyze total sales, profit, quantity sold and customer behavior. 
-- Dashboarding: Created a dashboard that visually communicates the answers to the business questions using column charts, Bar Charts, Donurt Chart and Line Graph.
+- Data Analysis: Built multiple pivot tables to analyze total sales, profit, quantity sold and customer behavior. 
+- Dashboarding: Created a dashboard that visually communicated the answers to the business questions using column charts, Bar Charts, Donurt Chart and Line Graph.
 - Business Insights: Provided insights and recommendations for business decisions based on the data insights.
 
 ### **INSIGHTS**
